@@ -1,5 +1,7 @@
 # GitHub Bootcamp - Workshop
 
+Hello World!
+
 Repo for the `GitHub Bootcamp` 1-day Workshop from @wulfland.
 
 ## 👉 Introduction
